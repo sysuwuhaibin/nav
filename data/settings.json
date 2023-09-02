@@ -3,10 +3,10 @@
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
   "loading": "loading4",
-  "showGithub": true,
-  "title": "发现导航 - 精选实用导航网站",
-  "description": "发现导航 - 精选实用导航网站",
-  "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
+  "showGithub": false,
+  "title": "AI导航 - 你最想要的AI工具大全",
+  "description": "AI导航 - 精选实用导航网站",
+  "keywords": "导航,AI资源,AI工具,最好的助手,实用工具,学习资源,AI写作,AI作图,AI聊天,AI办公",
   "theme": "Side",
   "appTheme": "Shortcut",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-2022 nav3.cn, All Rights Reserved</div>",
@@ -56,6 +56,6 @@
     }
   ],
   "showLanguage": true,
-  "showRate": true,
+  "showRate": false,
   "mirrorList": []
 }
