@@ -5,11 +5,11 @@
   "loading": "loading4",
   "showGithub": false,
   "title": "AI导航 - 你最想要的AI工具大全",
-  "description": "AI导航 - 精选实用导航网站",
+  "description": "AI导航 - 精选实用AI网站导航",
   "keywords": "导航,AI资源,AI工具,最好的助手,实用工具,学习资源,AI写作,AI作图,AI聊天,AI办公",
   "theme": "Sim",
-  "appTheme": "Sim",
-  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-2022 nav3.cn, All Rights Reserved</div>",
+  "appTheme": "App",
+  "footerContent": "<div style=\"font-weight: bold;\">共收录450个网站</div><div>Copyright © 2023 winios.top, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
   "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba",
   "cnzzStatisticsUrl": "",
@@ -21,16 +21,10 @@
       "height": null
     }
   ],
-  "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
+  "simThemeDesc": "这里收录多达 <b>450</b> 个优质AI网站， 助您工作、学习和生活",
   "simThemeHeight": 250,
   "simThemeAutoplay": false,
   "sideThemeImages": [
-    {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
     {
       "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
       "url": "",
@@ -49,7 +43,7 @@
       "height": null
     }
   ],
-  "showLanguage": true,
+  "showLanguage": false,
   "showRate": false,
   "mirrorList": []
 }
